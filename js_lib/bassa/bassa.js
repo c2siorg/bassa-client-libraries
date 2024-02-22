@@ -11,7 +11,7 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-// Bassa python client library will enable you to interact easily with Bassa API server with most of its functions covered. 
+// Bassa js client library will enable you to interact easily with Bassa API server with most of its functions covered. 
 
 const axios = require('axios');
 const { URL } = require('url');
